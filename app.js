@@ -3,12 +3,12 @@
 	<head>
 		<title> Variables , Arrays </title>
 		<script>
-			var car = "honda";
+			car = "honda";
 		</script>
 	</head>
 	<body>
 		<script>
-			document.write("anything");
+			document.write(car);
 		</script>
 	</body>
 </html>
