@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<meta charsheet="utf-8">
+<meta charset="utf-8">
 <title> Untitled Document<title/>
 </head>
 
