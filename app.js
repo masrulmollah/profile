@@ -1,16 +1,16 @@
 <!doctype html>
 <html>
-	<head>
-		<title> Variables , Arrays </title>
-		<script>
-			car = "honda";
-		</script>
-	</head>
-	<body>
-		<script>
-			document.write(car);
-		</script>
-	</body>
+<head>
+<meta charsheet="utf-8">
+<title> Untitled Document<title/>
+</head>
+
+<body>
+<div id="container">
+<ul>
+<li>Home</li>
+<li>About</li>
+</ul>
+</div>
+</body>
 </html>
-
-
